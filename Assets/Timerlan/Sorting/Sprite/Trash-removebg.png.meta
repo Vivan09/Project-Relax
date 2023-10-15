@@ -1,0 +1,2848 @@
+fileFormatVersion: 2
+guid: 6e1a916878e9e884b9e2797ccd339e1e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trash-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 558
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18c9685e8f2304fa0531d602670e48
+      internalID: -877158810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 558
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46db9ebdeb0ae942b3cf9fc792c4b6e
+      internalID: -1486842722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413f2ea0a9514a04bb949c585151c13c
+      internalID: 884523788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 522
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4a34c72a2c80439b8aac0a7d47b8d
+      internalID: -1941536730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 546
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd4e191818e4f42be7fa0c3291dee1
+      internalID: -1259972029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 522
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66690db4bc0c9b342a4b8a9f3cea0fa3
+      internalID: -475953948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9eda2727abd994fbda31cae946ab0b
+      internalID: -308485015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24bddfc0b272194bb6d9981ed881dd6
+      internalID: -118557098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 454
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ef9f91f5cefd499b3f9b24b999445
+      internalID: -1119948358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 484
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f4c83b1b970e8469e8f10fea8e9fef
+      internalID: 1287730675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 474
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e03895cf90694bb75eae8a6e96106
+      internalID: 1186603887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 486
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea15ce7c2fc4f43b02cc23f3f90f81
+      internalID: 452642138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 482
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac459eecbdea014d9e0ad0d697eb733
+      internalID: -1258048547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 429
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090dc217e4584434fabed202d76a9c3a
+      internalID: 149543144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 462
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec4f62672935a84892beecfbd7f7578
+      internalID: 158953472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 444
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6429362d1b9e604c99d3167519765d1
+      internalID: -1062801610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 472
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa5da3ee44a184685ff9223952226a
+      internalID: 1476502070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 440
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865eadb86e183e45b4eb2aba3a36dc1
+      internalID: -384064756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 447
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de54bd4c57768c4188b03e95df1dbc0
+      internalID: -887835894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 480
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383dc1c48ec5c174d9943c072bc0af5c
+      internalID: 579594164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b663a52e114e428345ae5993e96de
+      internalID: 1283895207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 472
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f971c24daea0a4e9cd8048dc305649
+      internalID: 770279605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 463
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a71099fab02af4dbc574e9e9b9f271
+      internalID: 119910656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 472
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eea6adb72b73f459dd9ea9e99bfce3
+      internalID: -233013210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 483
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85168e00d57cc0c42b4981fd68e37166
+      internalID: -1363407695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 446
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37294ea1512902043b3639afc5f88f44
+      internalID: -1540861175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 456
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540dbe36be12f404e805c675498023a0
+      internalID: 371715048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 403
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb046a1a528494bbb5721facb61fc1
+      internalID: 1956074558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 428
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae086757715098742b7e171423ab5bd5
+      internalID: -1910884651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 391
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9246330ca79154a86913433f4bf6e1
+      internalID: -2015873137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233980e437acfcc4989604586d8c501e
+      internalID: 1304227690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 410
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f885a0e719792f54bb99dcd3ab0b6309
+      internalID: 1653280871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 413
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ec46d7bdd433543a83b605c4afece9
+      internalID: -1152814181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 426
+        width: 97
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b9d7e2f6ac5e42804ec5a4de2dff9
+      internalID: 270226817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 345
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb366fe02d646264e96ec37ef5540e87
+      internalID: 515168948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 386
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00523cc86829a64295d2dd6b53572cd
+      internalID: -282903102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 402
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de03b78dd9e481a4e8d768fd5c9f60e1
+      internalID: 111286983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 390
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fe7bd5bb6b2b478221a5e676d61c8
+      internalID: -657803559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 419
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb9dfc4eaadd9e46afd04bc4ad119fd
+      internalID: -1831315476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 438
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c75c241d37703d42956dca7719f599a
+      internalID: -1375653339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 406
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc346d47c91b244bad62f3300249a66
+      internalID: -1845214491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 350
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62de52953fc334d9e31c64a0d946ae
+      internalID: 1114869466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 411
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766d72004462734f83e9f46228e66ff
+      internalID: 1871148049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d0166a1d6a204dba6ac4aa66d606f
+      internalID: -723901673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 392
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9551ccb9b9f740811d799951deaf6
+      internalID: 492518201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 420
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2dbcdb8829f1848826b502bf032864
+      internalID: -1689245208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 423
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07559cfa522cda0468ab9d9b99dab5b6
+      internalID: -684838222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 393
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0df7c3d05dd04ea53e78715d6067d
+      internalID: 59567743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a0860f17dc05479390e931412b45b
+      internalID: -832759038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 393
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ad072676c7c745b2a5f3d0ce8e00e
+      internalID: -817695790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ecac43ca65d4c4a9f895aabc8a5566
+      internalID: -2013056637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 359
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44738b303476cf458f8f337a40f4b42
+      internalID: -1237117111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 402
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bc9dca462e4184caf592fd9d6a33f1
+      internalID: -1679910723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 387
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb83466a302d734ea50e78faa2411e8
+      internalID: -167348692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 348
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbfc047e9d0edd46a38b4d9661411b1
+      internalID: -409954910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 328
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa01e178b4599e4dba0d528e89db81f
+      internalID: -217245563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 402
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a0afc27f9af449ad05b4908397630
+      internalID: -1050914685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 350
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e09b892d2c1d540b686cbed592e4d0
+      internalID: -539013861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 348
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a743b6c15f5e5b4dbbd5c4ac93bbc51
+      internalID: 2146571844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 378
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70e48a439f18342a9acb3113b472c3
+      internalID: 1367781024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 343
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9dce52ca2c72047a15bb0200b6fcfa
+      internalID: 1454898439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 330
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59da8a35dc27cc44b9c408b195f2b89
+      internalID: -836912327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 318
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd37811e5a1c7341842063115d2be9e
+      internalID: 921611895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f900309800b6e4c826d0dc23ce993b
+      internalID: -551752018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 384
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc48a1183aaf92e44a7cdea5ca3d269e
+      internalID: -610902841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 361
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef1f45190c1ae340a826dc9ed6e0de4
+      internalID: -1055656767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 354
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e598f922b3ec544a76e0aadd7ffc99
+      internalID: -106538171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_80
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 378
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bbeb4b32ca84a4c8bb1ae27cc666bd
+      internalID: -1946428154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_81
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 340
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0749972ae274484f8ae0c5f794f8260
+      internalID: 1889223338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_82
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 378
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292cc4c6d641704a9b2b0eabdb91602
+      internalID: -677968957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_83
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 306
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc4072d917351847b12a5940b54005f
+      internalID: 1470946824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_85
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 309
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc72523759cff4384209530b5eb4e7
+      internalID: -1593771919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 306
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4fbde33bb42942902b94b46a3c3e6
+      internalID: -799154981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_87
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 333
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cecbf145e47174285a009ab02cbe3a
+      internalID: 1712740305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_88
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 348
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3768b03139268419692e194b29af5c
+      internalID: -2079021313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_89
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 357
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27452ce60c2cbcb459beac49d01a352a
+      internalID: 118272166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_90
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 274
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7685bba0331d740865ffc95fe6dde5
+      internalID: -1586038786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_91
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 252
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31cd74e4ee605f479f3f838aed59fdf
+      internalID: -1539449150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 294
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9c12f67bbc2e48958b3120c47b43d
+      internalID: -289396476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b4bbb9f0b7fa4880c751544efadbe
+      internalID: -1670150613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 306
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9862e297161f446aa3910e9a9f0d65
+      internalID: 359167119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 256
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5092e5d61dd11e0449a1e34aef0495b1
+      internalID: 1644518538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_96
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 311
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc04bfad8a6dc49b926c02e46949ee
+      internalID: 228161018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_97
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 336
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f7d1ee180b4e41bd67c4d3e939cf4
+      internalID: -63821238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_98
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 329
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a725968dffb92594f914fce55f5df37d
+      internalID: -607581429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 252
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687228fcc4ded5c4b85426d9aa284d37
+      internalID: -1856526857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_100
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 288
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c74cbaf4baa19a469bf36d3be82855a
+      internalID: 2003178017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_101
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 309
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeae1bb70daeeb44a175a99a72a2506
+      internalID: 1559621639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_102
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 316
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3262a520288e1ac49a37b75d697bb81a
+      internalID: -1745906786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_103
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 316
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254266d027010ab4789b92593aee2de2
+      internalID: -2005760048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_104
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f2950ea7bacc34c9d888319686a1ff
+      internalID: 1994261512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_105
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 258
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c506649269d484aa0675a4e5ec1438
+      internalID: 608721426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_106
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 286
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7532375e3d00b974cbeb9188143c64dc
+      internalID: -2087752875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_107
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 270
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00166e6335059664a95111cd1e9ec992
+      internalID: -18151384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_110
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 252
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2687f4ef93212419fa638a576be760
+      internalID: -842403625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_111
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 253
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064cc526fc2eb249b9ddcf722f0d5bc
+      internalID: 1908992539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_112
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 300
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba8aca02479fa4aa819296e066442e
+      internalID: 829065705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_113
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 260
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a7fc7616e9704798aef0e1a558e50
+      internalID: 82338811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_114
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 275
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332729ae1193068499acc11677043dcf
+      internalID: 1078301724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_115
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 294
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038c4b29726bb44f9d7e6ce499d0cca
+      internalID: 1741701170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_116
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e04e82bb98b0745be018b8129087c4
+      internalID: 372934843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_117
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767a4aa42e5c2d44976f34b3be5d182
+      internalID: 97456064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_118
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 260
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5681d927900a42afa781c0f48ee6b
+      internalID: -1713947746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_119
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 271
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e893079a78939408b221716905e219
+      internalID: 2027001366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_120
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 282
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3b136e18a22f840b30f75688b59ef2
+      internalID: 1031228415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_122
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 252
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0564c64739345c246a7b93d5c17d090c
+      internalID: -2669551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_123
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 252
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a42bc906fc2e84192c0e407f9b084b
+      internalID: -739519979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_124
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 265
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5afd05703b94194da808a42b8837a2b
+      internalID: 2107316412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_125
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 256
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5417ea4d37ca74ab84a03ef11d3aab
+      internalID: 1640245336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_126
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 174
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2c9002fbe5c034794e53cbfe30a597
+      internalID: -386964485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_127
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 27
+        width: 169
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741494f13bdc97f4e9c465307098d4d5
+      internalID: 37425433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_128
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 28
+        width: 180
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed3fae89be837f4d895108faad13491
+      internalID: 1242715035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_129
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 24
+        width: 176
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cebc0cd9ac1f43be3277ad1efe0ed
+      internalID: 122036937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_130
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 24
+        width: 174
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a044a9e8b93664c815980cb6f5da6d
+      internalID: 839091544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_131
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 24
+        width: 171
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7985f62aed3a1468dd4e2da6e7db46
+      internalID: -1348231888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_132
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 24
+        width: 169
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524056300394d4246879b6ebfe6a3993
+      internalID: 132354352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b99732e2bc0f794487eded1a23a1970
+      internalID: -1237288444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_134
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 13
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49ce0ffd0968b446a3af2b50f812273
+      internalID: -1791140036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_135
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 18
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644205f4f2227ac429967f1b32962e2e
+      internalID: -559326576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_136
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6273290bea5e3a345843b7301122383f
+      internalID: -865558896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_137
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e4c9899a803574bad5b8054db44073
+      internalID: -919745380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash-removebg_138
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff06841af76a264698503f73fc4da4d
+      internalID: 2125761353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trash-removebg_0: -877158810
+      Trash-removebg_1: -1486842722
+      Trash-removebg_10: -118557098
+      Trash-removebg_100: 2003178017
+      Trash-removebg_101: 1559621639
+      Trash-removebg_102: -1745906786
+      Trash-removebg_103: -2005760048
+      Trash-removebg_104: 1994261512
+      Trash-removebg_105: 608721426
+      Trash-removebg_106: -2087752875
+      Trash-removebg_107: -18151384
+      Trash-removebg_108: 1613506072
+      Trash-removebg_109: -1522669283
+      Trash-removebg_11: -1119948358
+      Trash-removebg_110: -842403625
+      Trash-removebg_111: 1908992539
+      Trash-removebg_112: 829065705
+      Trash-removebg_113: 82338811
+      Trash-removebg_114: 1078301724
+      Trash-removebg_115: 1741701170
+      Trash-removebg_116: 372934843
+      Trash-removebg_117: 97456064
+      Trash-removebg_118: -1713947746
+      Trash-removebg_119: 2027001366
+      Trash-removebg_12: 1287730675
+      Trash-removebg_120: 1031228415
+      Trash-removebg_121: 2068264028
+      Trash-removebg_122: -2669551
+      Trash-removebg_123: -739519979
+      Trash-removebg_124: 2107316412
+      Trash-removebg_125: 1640245336
+      Trash-removebg_126: -386964485
+      Trash-removebg_127: 37425433
+      Trash-removebg_128: 1242715035
+      Trash-removebg_129: 122036937
+      Trash-removebg_13: -1497517315
+      Trash-removebg_130: 839091544
+      Trash-removebg_131: -1348231888
+      Trash-removebg_132: 132354352
+      Trash-removebg_133: -1237288444
+      Trash-removebg_134: -1791140036
+      Trash-removebg_135: -559326576
+      Trash-removebg_136: -865558896
+      Trash-removebg_137: -919745380
+      Trash-removebg_138: 2125761353
+      Trash-removebg_14: 1186603887
+      Trash-removebg_15: 452642138
+      Trash-removebg_16: 570073905
+      Trash-removebg_17: -1258048547
+      Trash-removebg_18: 149543144
+      Trash-removebg_19: 158953472
+      Trash-removebg_2: -1241883534
+      Trash-removebg_20: -1062801610
+      Trash-removebg_21: 1476502070
+      Trash-removebg_22: -384064756
+      Trash-removebg_23: -887835894
+      Trash-removebg_24: 579594164
+      Trash-removebg_25: 1283895207
+      Trash-removebg_26: 770279605
+      Trash-removebg_27: 119910656
+      Trash-removebg_28: -233013210
+      Trash-removebg_29: -1363407695
+      Trash-removebg_3: 822098763
+      Trash-removebg_30: -1874663286
+      Trash-removebg_31: 1023532249
+      Trash-removebg_32: -1540861175
+      Trash-removebg_33: 371715048
+      Trash-removebg_34: 848212291
+      Trash-removebg_35: 1956074558
+      Trash-removebg_36: 424548227
+      Trash-removebg_37: -1910884651
+      Trash-removebg_38: -2015873137
+      Trash-removebg_39: 1304227690
+      Trash-removebg_4: 884523788
+      Trash-removebg_40: 1653280871
+      Trash-removebg_41: -1152814181
+      Trash-removebg_42: 270226817
+      Trash-removebg_43: 515168948
+      Trash-removebg_44: -282903102
+      Trash-removebg_45: 111286983
+      Trash-removebg_46: -657803559
+      Trash-removebg_47: -1831315476
+      Trash-removebg_48: -1375653339
+      Trash-removebg_49: -1845214491
+      Trash-removebg_5: -1941536730
+      Trash-removebg_50: 1114869466
+      Trash-removebg_51: 1871148049
+      Trash-removebg_52: -723901673
+      Trash-removebg_53: 492518201
+      Trash-removebg_54: -1689245208
+      Trash-removebg_55: 357623959
+      Trash-removebg_56: -684838222
+      Trash-removebg_57: 59567743
+      Trash-removebg_58: -832759038
+      Trash-removebg_59: -817695790
+      Trash-removebg_6: 731604761
+      Trash-removebg_60: -2013056637
+      Trash-removebg_61: -1237117111
+      Trash-removebg_62: -1679910723
+      Trash-removebg_63: -167348692
+      Trash-removebg_64: -409954910
+      Trash-removebg_65: -217245563
+      Trash-removebg_66: -1050914685
+      Trash-removebg_67: 1215690899
+      Trash-removebg_68: -539013861
+      Trash-removebg_69: -1722924383
+      Trash-removebg_7: -1259972029
+      Trash-removebg_70: 2146571844
+      Trash-removebg_71: 1367781024
+      Trash-removebg_72: 1454898439
+      Trash-removebg_73: -836912327
+      Trash-removebg_74: 921611895
+      Trash-removebg_75: -551752018
+      Trash-removebg_76: -610902841
+      Trash-removebg_77: -1055656767
+      Trash-removebg_78: 247820776
+      Trash-removebg_79: -106538171
+      Trash-removebg_8: -475953948
+      Trash-removebg_80: -1946428154
+      Trash-removebg_81: 1889223338
+      Trash-removebg_82: -677968957
+      Trash-removebg_83: 1470946824
+      Trash-removebg_84: -1112605034
+      Trash-removebg_85: -1593771919
+      Trash-removebg_86: -799154981
+      Trash-removebg_87: 1712740305
+      Trash-removebg_88: -2079021313
+      Trash-removebg_89: 118272166
+      Trash-removebg_9: -308485015
+      Trash-removebg_90: -1586038786
+      Trash-removebg_91: -1539449150
+      Trash-removebg_92: -289396476
+      Trash-removebg_93: -1670150613
+      Trash-removebg_94: 359167119
+      Trash-removebg_95: 1644518538
+      Trash-removebg_96: 228161018
+      Trash-removebg_97: -63821238
+      Trash-removebg_98: -607581429
+      Trash-removebg_99: -1856526857
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

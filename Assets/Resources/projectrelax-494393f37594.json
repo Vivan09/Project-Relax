@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projectrelax",
+  "private_key_id": "494393f37594d7786581cab45fc05f7a9339ec91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYEMMSY3xQ2sLj\nsCDvonyVUwzkt2eSrg1FD3TNhpIN7pShPHdPMfCg8hhwWIrMC6vn9YHNwGcVExw5\nBi6ERlc378ELyM9QNTpUko4RM6rApvgwzKniolfObFryFsZ2vdVZaEUDlqUBvHlk\na86ymeBBOQZNKgK0+v7cKIcCYbiguiUkDkzTJZnLx5fU5m9EhfNuwqk1ApCuReP6\ndGhqtCGNKPl+Thc+sH4W83HSfuhOW86OJKcRPpV2Mm+jyWIeiEMM+zx0Ug+1i1pN\nevgU1Cs+fgMItHelVsyr4LA3XabAZ94cB0juqXTC1TVLUnmxi9TX5qtGI+RJclrs\nhzLeuxH3AgMBAAECggEAANz3fn86EWtsd8ZkKXgOpPpXtGSmHdsHEEFKNHBzG8ki\n5tdlBfoOl5tIMDsQbqASVbq7BeP1sdTt8BTs5qtPi2289sgpBReIQTqju81DRtyr\nw/sla7foL6/FxGIEtl/VejBxU9fjD+N1/O/vuGvPLg+YzY9TfJuAHtfMDGNpnN/v\nX9Fhsfn5qbB7/xm51u6ZK6InXVuuwJgO4Bm87QrP3K/ythCYLJK0IPzpFSjA98cn\nGQ3ejPCTedEQl6fDAxLPQ6z0F0+eqSIECKsgjs8P994BRtuzpMJAXyfkFhLvqO2/\n+HSrSlEgq7tlhzePOAE/tBPtYDz63PY/f83evYGRwQKBgQDQBymY3cOpjpE3Rv1j\n96DuBsKbi2E2kP4bxEemygyD7adjZkdqlLLBo9XJeWBJOXen2gkTfIealCazHdvZ\nyFOTtcA5RCHhR67S84FIj/sQlxVJfjVrXXqQDKdWDksrHrrippK+1kiYxum4Y0YI\nyBQd/ZC3wwHpy9skZi1z/3ZN6QKBgQC7IeDos4t6GrPXNKOUe2OTAp2lZXf8VScd\nb48lkFGo+nm9/7rPpUIR/smm7IBBH9Gn8ABSVgEEP0PikLHj+h0N+X080AsKIFIX\nZZA9U4+fhQTXOf6z4LTr01gnQoTnFFGGU/uYjnTTImk+jHYeoZNxH2g4NzBcQERQ\no7AUon8U3wKBgQCyMZB2O3BBK7hEi3C+Uv3tJqlIp+nL3gNtMYLW4jg6QjaiNJh0\nOY+tw3N7s5bA4pMWmvQvVvqpdMJ5p9gNA0ZkPsm7xBrpaIfed2uFBqBfI6u+WnfT\n0i0Me2pTksbc1uPrBhipk9B33duScKcrGofw8KUoY8idxlufIE9LD8b9EQKBgQCa\n/3214PlXIwTw7OXNF8KrQtBm7bvLYpCqffvYRkiNKSJrcIVAdoZaN2q5e0zkJEHY\n0x7BFAF1jh1hbS4bQdCNAahtFXj/YzP7syEc2risjVYsGxpPzYCtkHmE00EX0amR\nFMDhZKV5OBhqOZeg2X4xha0iWvwQfR7YmCxBezK9iwKBgHfGlKjGn/Yypic23s4W\nBqaBHQEfFZyDquu/fq5tkMK7BgU2OnKqUe1ahoZiPDQGa5gy5qrr2/wjDjJYforf\ngr53dZuvROH19k0me58KUTJJQ8TTpb5jZwjkDgmwYit0MizcK9stH5z0IrBgI4dV\nX/Ulz+VleyIAkn1EWfX1jLmb\n-----END PRIVATE KEY-----\n",
+  "client_email": "spivdiya-relax@projectrelax.iam.gserviceaccount.com",
+  "client_id": "113820062016920894542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spivdiya-relax%40projectrelax.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

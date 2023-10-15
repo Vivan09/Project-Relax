@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 636f392496dea8c4eb8594867f8b8771
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f92a923488b5864d948f1aa1519dda2
+      internalID: -158571342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc51a02956ae894eaece92ee84f670b
+      internalID: -60253471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 147
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdb288741cd02b48b75c7f7dfe574bb
+      internalID: 1926611004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2c0b132c293c6428ea553adfde12bd
+      internalID: -629999871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179131a0749b9748b412dff931ce80b
+      internalID: -637365570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 129
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d567dd90e8d7f5b4b9d14091b4bd7897
+      internalID: -328416165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 130
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5e703c09eacd541901ba5ce95ef5eb
+      internalID: 698003200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9698d3f4e01d6dc478f4f0e73822457d
+      internalID: 440031675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 113
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f4dd524d040fe4da996061d6d1ad80
+      internalID: 1127425264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8ceee68690fc343b2d0b8ebb65e924
+      internalID: -14631447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 114
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad4709934eefd48b989bd22da7f2c2
+      internalID: 1719340056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e69293f12e5b4681456de65908f49
+      internalID: 835866018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5708996962f745aca0b6197d046e8
+      internalID: -1575496138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 98
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec677e9bb590f9743a10a784a5b56c32
+      internalID: 157300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7909fbcf9fa7141886b6ab3a9dc534
+      internalID: -623202282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c207bb3bfcdb7409a27b76cdaaee3e
+      internalID: -587635341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 83
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c5ebd3eca1ad479e38e7624fe75ae
+      internalID: 745114818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6580374ea52f35249a013d2701db3e13
+      internalID: 2139510121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d2edb66be6b64b86fc170e099d250
+      internalID: -108002694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitandnuts_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 82
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de70af1be1e1344896e00af47b927a0
+      internalID: -2017404852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fruitandnuts_16x16_0: 543260673
+      fruitandnuts_16x16_1: 4706689
+      fruitandnuts_16x16_10: 84479033
+      fruitandnuts_16x16_11: -1943707213
+      fruitandnuts_16x16_12: -637365570
+      fruitandnuts_16x16_13: -328416165
+      fruitandnuts_16x16_14: 698003200
+      fruitandnuts_16x16_15: 440031675
+      fruitandnuts_16x16_16: -732913269
+      fruitandnuts_16x16_17: 886180786
+      fruitandnuts_16x16_18: -1566714468
+      fruitandnuts_16x16_19: 811007240
+      fruitandnuts_16x16_2: 790123338
+      fruitandnuts_16x16_20: 1127425264
+      fruitandnuts_16x16_21: -14631447
+      fruitandnuts_16x16_22: 1719340056
+      fruitandnuts_16x16_23: 835866018
+      fruitandnuts_16x16_24: -1353324683
+      fruitandnuts_16x16_25: 797448196
+      fruitandnuts_16x16_26: -603857505
+      fruitandnuts_16x16_27: 755935448
+      fruitandnuts_16x16_28: -1575496138
+      fruitandnuts_16x16_29: 157300536
+      fruitandnuts_16x16_3: 1892761072
+      fruitandnuts_16x16_30: -623202282
+      fruitandnuts_16x16_31: -587635341
+      fruitandnuts_16x16_32: 1364964224
+      fruitandnuts_16x16_33: -26785170
+      fruitandnuts_16x16_34: 2061176175
+      fruitandnuts_16x16_35: -2144328386
+      fruitandnuts_16x16_36: 745114818
+      fruitandnuts_16x16_37: 2139510121
+      fruitandnuts_16x16_38: -108002694
+      fruitandnuts_16x16_39: -2017404852
+      fruitandnuts_16x16_4: -158571342
+      fruitandnuts_16x16_40: 1036945386
+      fruitandnuts_16x16_41: -1884088991
+      fruitandnuts_16x16_42: -1634916282
+      fruitandnuts_16x16_43: -1479540577
+      fruitandnuts_16x16_44: 1809398408
+      fruitandnuts_16x16_45: 1424191145
+      fruitandnuts_16x16_46: 1219324951
+      fruitandnuts_16x16_47: 250495690
+      fruitandnuts_16x16_48: 2041780808
+      fruitandnuts_16x16_49: -107475240
+      fruitandnuts_16x16_5: -60253471
+      fruitandnuts_16x16_50: 223142993
+      fruitandnuts_16x16_51: -339119333
+      fruitandnuts_16x16_52: 1104280633
+      fruitandnuts_16x16_53: -1123106770
+      fruitandnuts_16x16_54: -1655997282
+      fruitandnuts_16x16_55: -1513407450
+      fruitandnuts_16x16_56: -345842018
+      fruitandnuts_16x16_57: 755387373
+      fruitandnuts_16x16_58: 775465430
+      fruitandnuts_16x16_59: -445962139
+      fruitandnuts_16x16_6: 1926611004
+      fruitandnuts_16x16_60: 1023889175
+      fruitandnuts_16x16_61: -1584910807
+      fruitandnuts_16x16_62: 388156994
+      fruitandnuts_16x16_63: -950665696
+      fruitandnuts_16x16_64: -1166901700
+      fruitandnuts_16x16_65: 157711912
+      fruitandnuts_16x16_66: 522001346
+      fruitandnuts_16x16_67: 1347409185
+      fruitandnuts_16x16_68: -871130105
+      fruitandnuts_16x16_69: -904028292
+      fruitandnuts_16x16_7: -629999871
+      fruitandnuts_16x16_70: 1214732778
+      fruitandnuts_16x16_71: 1094780730
+      fruitandnuts_16x16_72: -707254396
+      fruitandnuts_16x16_73: -230514242
+      fruitandnuts_16x16_74: 650746525
+      fruitandnuts_16x16_75: -891073542
+      fruitandnuts_16x16_76: 958640794
+      fruitandnuts_16x16_77: -65465931
+      fruitandnuts_16x16_78: 50547321
+      fruitandnuts_16x16_79: 466563497
+      fruitandnuts_16x16_8: -291594473
+      fruitandnuts_16x16_9: 433024920
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

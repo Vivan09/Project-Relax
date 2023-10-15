@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fabb3697cab14334e9975e08aeae7b2b, type: 3}
+  m_Name: CardSpriteContainer
+  m_EditorClassIdentifier: 
+  CardSprites:
+  - Mood: 0
+    Sprite: {fileID: -1527389354, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 1
+    Sprite: {fileID: -97665946, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 2
+    Sprite: {fileID: -484487086, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 3
+    Sprite: {fileID: 1645622986, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 4
+    Sprite: {fileID: -1895579137, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 5
+    Sprite: {fileID: 1351654449, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 6
+    Sprite: {fileID: 1803406783, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 7
+    Sprite: {fileID: 763732819, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 8
+    Sprite: {fileID: -362729248, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
+  - Mood: 9
+    Sprite: {fileID: -186919757, guid: 93a7aba023277044fa8021a68a8014a1, type: 3}
